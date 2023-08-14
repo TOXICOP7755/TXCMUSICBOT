@@ -2,7 +2,7 @@
 
 <h4 align="center"> A COOL, POWERFUL, LAGFREE MUSIC💤 BOT FOR AUDIO AND VIDEO SONG IN TELEGRAM VOICE CHAT 💫<br> ...WRITTEN WITH PYTHON ...</h4>
 
-<p align="center"><a href="https://t.me/your_godfather_xd"><img src="https://telegra.ph/file/eacf4e7775e09fa16aac7.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/MERA_JIJA_HAI_TU"><img src="https://graph.org/file/1130f393e046f9f2280c6.jpg" width="400"></a></p>
 
 <p align="center">
     <a href="https://app.codacy.com/manual/mrtosumemon/GODFATHERMUSIC/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
