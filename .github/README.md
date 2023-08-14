@@ -1,6 +1,6 @@
 <h1 align="center"><b> 𓆩᪵𝐓ᴏxɪ𝐂🌿⃤𝐌𝐔𝐒𝐈𝐂𓆪‌乛[🇮🇳]™</b></h1>
 
-<h4 align="center">Incricible A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
+<h4 align="center"> A COOL, POWERFUL, LAGFREE MUSIC💤 BOT FOR AUDIO AND VIDEO SONG IN TELEGRAM VOICE CHAT 💫<br> ...WRITTEN WITH PYTHON ...</h4>
 
 <p align="center"><a href="https://t.me/your_godfather_xd"><img src="https://telegra.ph/file/eacf4e7775e09fa16aac7.jpg" width="400"></a></p>
 
