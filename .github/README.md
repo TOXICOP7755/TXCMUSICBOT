@@ -5,15 +5,15 @@
 <p align="center"><a href="https://t.me/MERA_JIJA_HAI_TU"><img src="https://graph.org/file/1130f393e046f9f2280c6.jpg" width="400"></a></p>
 
 <p align="center">
-    <a href="https://app.codacy.com/manual/mrtosumemon/GODFATHERMUSIC/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/mrtosumemon/GODFATHERMUSIC"> <img src="https://img.shields.io/github/repo-size/mrtosumemon/GODFATHERMUSIC?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/mrtosumemon/GODFATHERMUSIC/commits/prince"> <img src="https://img.shields.io/github/last-commit/mrtosumemon/GODFATHERMUSIC?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/mrtosumemon/GODFATHERMUSIC/issues"> <img src="https://img.shields.io/github/issues/mrtosumemon/GODFATHERMUSIC?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/mrtosumemon/GODFATHERMUSIC/network/members"> <img src="https://img.shields.io/github/forks/mrtosumemon/GODFATHERMUSIC?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://app.codacy.com/manual/TOXICOP7755/TXCMUSICBOT/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
+    <a href="https://github.com/TOXICOP7755/TXCMUSICBOT"> <img src="https://img.shields.io/github/repo-size/TOXICOP7755/TXCMUSICBOT?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/TOXICOP7755/TXCMUSICBOT/commits/prince"> <img src="https://img.shields.io/github/last-commit/TOXICOP7755/TXCMUSICBOT?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/TOXICOP7755/TXCMUSICBOT/issues"> <img src="https://img.shields.io/github/issues/TOXICOP7755/TXCMUSICBOT?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/TOXICOP7755/TXCMUSICBOT/network/members"> <img src="https://img.shields.io/github/forks/TOXICOP7755/TXCMUSICBOT?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-> ⭐️ Thanks to everyone for using Incricible,  🤭 That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using Toxic Music,  🤭 That is the greatest pleasure we have !
 
 ### Godfather– History
 
