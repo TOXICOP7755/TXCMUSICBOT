@@ -35,7 +35,7 @@
 - `MONGO-URL`
 
 
-## ᴄʀᴇᴅɪᴛ
+## CREDIT
 
 - [TOSU](https://t.me/your_godfather_xd)
   
@@ -54,13 +54,12 @@
 </details>
 
 
-<h1 align="center"><b>❤️ ᴀᴄᴋɴᴏᴡʟᴇᴅɢᴇᴍᴇɴᴛs ❤️</b></h1>
+<h1 align="center"><b> ᴀᴄᴋɴᴏᴡʟᴇᴅɢᴇᴍᴇɴᴛs</b></h1>
 
 <details>
 <summary><b>ʟɪʙʀᴀʀɪᴇs</b></summary>
 <br>
-
-ᴛʜᴀɴᴋs ᴛᴏ ᴀʟʟ ᴏғ ʏᴏᴜ ғᴏʀ ᴜsɪɴɢ ᴀɴᴅ ᴍᴀᴋɪɴɢ ᴀʟᴇxᴀ:
+THANKS ALL OF YOU FOR USING TOXIC MUSIC 💫🖤 :
 
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
