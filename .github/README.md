@@ -24,7 +24,6 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/TOXICOP7755/TXCMUSICBOT)
 
-    
 - [ᴘʏᴛʜᴏɴ𝟹.𝟿](https://www.python.org/downloads/release/python-390/)
 - [ᴛᴇʟᴇɢʀᴀᴍ ᴀᴘɪ ᴋᴇʏ](https://docs.pyrogram.org/intro/setup#api-keys)
 - [ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴛᴏᴋᴇɴ](https://t.me/botfather)
