@@ -40,11 +40,12 @@
 - [TOSU](https://t.me/your_godfather_xd)
   
 
+# SUPPORT
+
 <details>
 <summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
 <br>
 
-# SUPPORT
 <a href="https://t.me/TxCbotz"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="https://t.me/TxCsupport"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 <a href="https://t.me/KNOW_UR_JIJA"><img src="https://img.shields.io/badge/Give-ABOT%20MEH-blue.svg?logo=telegram"></a>
