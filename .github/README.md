@@ -54,7 +54,7 @@
 </details>
 
 
-<h1 align="center"><b> ᴀᴄᴋɴᴏᴡʟᴇᴅɢᴇᴍᴇɴᴛs</b></h1>
+<h1 align="center"><b>ACCESSION </b></h1>
 
 <details>
 <summary><b>ʟɪʙʀᴀʀɪᴇs</b></summary>
