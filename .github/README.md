@@ -30,7 +30,7 @@
 
 - `BOT-TOKEN`
 - `OWNER-ID`
-- 'API-KEYS'
+- `API-KEYS`
 - 'STRING0-SESSION'
 - 'MONGO-URL'
 
