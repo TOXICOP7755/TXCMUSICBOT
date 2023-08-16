@@ -35,25 +35,10 @@
 - `MONGO-URL`
 
 
-## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
+## ᴄʀᴇᴅɪᴛ
 
-- [ᴀsᴀᴅ ᴀʟɪ](https://t.me/Dr_Asad_Ali)
-- [ɢᴏᴅғᴀᴛʜᴇʀ](https://github.com/mrtosumemon)
-- [ʜᴀʀsʜɪᴛ](https://t.me/HarshitSharma361)
-- [Abhimanyu](https://t.me/Itz_Venom_xD)
-- [ʟᴇɢᴇɴᴅ](https://t.me/your_godfather_xd)
-- [ʏᴜᴋᴋɪ](https://github.com/NotReallyShikhar)
-- [ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/TheAnonymous2005)
-</details>
-
-<details>
-<summary><b>ʙʀᴏᴛʜᴇʀ</b></summary>
-<br>
-
-- [ᴛᴏsᴜ](https://t.me/YOUR_GODFATHER_XD)
-- [ᴅᴇᴠɪʟ](https://t.me/its_devil_911)
-
-</details>
+- [TOSU](https://t.me/your_godfather_xd)
+  
 
 <details>
 <summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
