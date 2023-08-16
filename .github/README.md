@@ -15,73 +15,14 @@
 
 > ⭐️ Thanks to everyone for using Toxic Music,  🤭 That is the greatest pleasure we have !
 
-### Godfather– History
+# ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
 
 
-<h1 align="center"><b>😂 ᴠɪᴇᴡ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs 😂</b></h1>
-<br>
-
-- Thumbnail Support | Audio And Video
-- Gban User | Showing track names when skipping
-- Youtube, Local playback support | Settings panel
-- Control with buttons | Userbot auto join
-- Channel Music Play | Keyboard selection support for youtube play
-- Lyrics Scrapper | Unlimited Queue
-- Broadcast Bot | Statistic Collector
-- Block / Unblock (restrict user for using your bot)
-
-### ᴠɪᴇᴡ ᴀʟʟ ʙᴀsɪᴄ ᴄᴏᴍᴍᴀɴᴅs 😂
 <details>
-<summary><b>ʙᴀsɪᴄ ᴄᴍᴅs</b></summary>
+<summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
 <br>
 
-- `/play <song name>` - play song you requested
-- `/playlist` - Show now playing list
-- `/song <song name>` - download songs you want quickly
-- `/search <query>` - search videos on youtube with details
-- `/vsong <song name>` - download videos you want quickly
-- `/lyric <song name>` - lyrics scrapper
-- `/vk <song name>` - generate song without download
-</details>
-
-###  ᴏɴʟʏ ᴀᴅᴍɪɴ ᴄᴀɴ ᴇxɪᴄᴜᴛᴇ 🙄
-<details>
-<summary><b>ᴀᴅᴍɪɴ ᴄᴍᴅs</b></summary>
-<br>
-
-- `/player` - open music player settings panel
-- `/pause` - pause song play
-- `/resume` - resume song play
-- `/skip` - play next song
-- `/end` - stop music play
-- `/ping` - check the bot ping status
-- `/auth` - authorized people to access the admin commands
-- `/deauth` - deauthorized people to access the admin commands
-</details>
-
-### sᴜᴅᴏ ᴄᴏᴍᴍᴀɴᴅs 🤭
-    
-<details>
-<summary><b>sᴜᴅᴏ ᴄᴍᴅs ᴏɴʟʏ</b></summary>
-<br>
-
-- `/broadcast` - order the assistant to leave all groups
-- `/gban` - gban user
-</details>
-    
-### ᴏɴʟʏ ᴏᴡɴᴇʀ
-    
-<details>
-<summary><b>ᴏɴʟʏ ᴏᴡɴᴇʀ</b></summary>
-<br>
-
-- `/broadcast` - send a broadcast message from the bot
-- `/block` - block people for using your bot
-- `/unblock` - unblock people you blocked for using your bot
-- `/blocklist` - show the list of all people who's blocked for using your bot
-</details>
-
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/TOXICOP7755/TXCMUSICBOT)O)
 </details>
 <h1 align="center"><b>❤️ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ❤️</b></h1>
 Welcome to the GODFATHERMUSIC repository, a platform developed by TheTeamAlexa to enhance your music experience through Alexa. With GodfatherMusic, you can easily command your Incricible to play your favorite songs, artists, and playlists without lifting a finger.
