@@ -22,16 +22,8 @@
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
 <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/TOXICOP7755/TXCMUSICBOT)O)
-</details>
-<h1 align="center"><b>❤️ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ❤️</b></h1>
-Welcome to the GODFATHERMUSIC repository, a platform developed by TheTeamAlexa to enhance your music experience through Alexa. With GodfatherMusic, you can easily command your Incricible to play your favorite songs, artists, and playlists without lifting a finger.
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/TOXICOP7755/TXCMUSICBOT)
 
-Our development team has worked tirelessly to create a seamless user experience, from integrating various music services to providing custom voice commands for Incricible. We believe that music has the power to bring people together, and our goal is to make it as accessible and enjoyable as possible.
-
-Through this repository, we hope to share our passion for music and innovation with the world. Whether you're a developer looking to contribute to our open-source project or a music lover excited to try out AlexaMusic, we welcome you to join our community and help us shape the future of music with Alexa.
-<summary><b>ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs</b></summary>
-<br>
     
 - [ᴘʏᴛʜᴏɴ𝟹.𝟿](https://www.python.org/downloads/release/python-390/)
 - [ᴛᴇʟᴇɢʀᴀᴍ ᴀᴘɪ ᴋᴇʏ](https://docs.pyrogram.org/intro/setup#api-keys)
