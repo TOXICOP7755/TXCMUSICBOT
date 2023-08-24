@@ -7,10 +7,10 @@ from pytgcalls.exceptions import NoActiveGroupCall
 
 import config
 from config import BANNED_USERS
-from AlexaMusic import LOGGER, app, userbot
-from AlexaMusic.core.call import Alexa
-from AlexaMusic.plugins import ALL_MODULES
-from AlexaMusic.utils.database import get_banned_users, get_gbanned
+from TxcMusic import LOGGER, app, userbot
+from TxcMusic.core.call import Txc
+from TxcMusic.plugins import ALL_MODULES
+from TxcMusic.utils.database import get_banned_users, get_gbanned
 
 loop = asyncio.get_event_loop()
 
@@ -23,7 +23,7 @@ async def init():
         and not config.STRING4
         and not config.STRING5
     ):
-        LOGGER("AlexaMusic").error("Add Pyrogram string session and then try...")
+        LOGGER("TxcMusic").error("Add Pyrogram string session and then try...")
     try:
         users = await get_gbanned()
         for user_id in users:
@@ -35,14 +35,14 @@ async def init():
         pass
     await app.start()
     for all_module in ALL_MODULES:
-        importlib.import_module("AlexaMusic.plugins" + all_module)
-    LOGGER("AlexaMusic.plugins").info("Necessary Modules Imported Successfully.")
+        importlib.import_module("TxcMusic.plugins" + all_module)
+    LOGGER("TxcMusic.plugins").info("Necessary Modules Imported Successfully.")
     await userbot.start()
-    await Alexa.start()
+    await Txc.start()
     try:
-        await Alexa.stream_call("https://telegra.ph/file/b60b80ccb06f7a48f68b5.mp4")
+        await Txc.stream_call("https://telegra.ph/file/a1c776f377ac1200e4221.mp4")
     except NoActiveGroupCall:
-        LOGGER("AlexaMusic").error(
+        LOGGER("TxcMusic").error(
             "[ERROR] - \n\nTurn on group voice chat and don't put it off otherwise I'll stop working thanks."
         )
         sys.exit()
