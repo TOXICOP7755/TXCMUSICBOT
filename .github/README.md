@@ -48,8 +48,8 @@
 
 <a href="https://t.me/TxCbotz"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="https://t.me/TxCsupport"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-<a href="https://t.me/KNOW_UR_JIJA"><img src="https://img.shields.io/badge/Give-ABOT%20MEH-blue.svg?logo=telegram"></a>
-<a href="https://t.me/TxCnetwork"><img src="https://img.shields.io/badge/Give-TXC%20NETWORK-blue.svg?logo=telegram"></a>
+<a href="https://t.me/KNOW_UR_JIJA"><img src="https://img.shields.io/badge/Join-ABOT%20MEH-blue.svg?logo=telegram"></a>
+<a href="https://t.me/TxCnetwork"><img src="https://img.shields.io/badge/Join-TXC%20NETWORK-blue.svg?logo=telegram"></a>
 
 </details>
 
