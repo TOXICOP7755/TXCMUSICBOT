@@ -48,4 +48,11 @@ async def init():
         sys.exit()
     except:
         pass
-    awai
+    awaitAlexa.decorators()
+    LOGGER("AlexaMusic").info("Music Bot Started Successfully")
+    await idle()
+
+
+if __name__ == "__main__":
+    loop.run_until_complete(init())
+    LOGGER("AlexaMusic").info("Stopping Music Bot")
