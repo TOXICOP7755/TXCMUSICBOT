@@ -21,9 +21,9 @@ from pytgcalls.types.stream import StreamAudioEnded
 
 import config
 from strings import get_string
-from AlexaMusic import LOGGER, YouTube, app
-from AlexaMusic.misc import db
-from AlexaMusic.utils.database import (
+from TxcMusic import LOGGER, YouTube, app
+from TxcMusic.misc import db
+from TxcMusic.utils.database import (
     add_active_chat,
     add_active_video_chat,
     get_assistant,
@@ -39,11 +39,11 @@ from AlexaMusic.utils.database import (
     remove_active_video_chat,
     set_loop,
 )
-from AlexaMusic.utils.exceptions import AssistantErr
-from AlexaMusic.utils.inline.play import stream_markup, telegram_markup
-from AlexaMusic.utils.stream.autoclear import auto_clean
-from AlexaMusic.utils.thumbnails import gen_thumb
-from AlexaMusic.utils.theme import check_theme
+from TxcMusic.utils.exceptions import AssistantErr
+from TxcMusic.utils.inline.play import stream_markup, telegram_markup
+from TxcMusic.utils.stream.autoclear import auto_clean
+from TxcMusic.utils.thumbnails import gen_thumb
+from TxcMusic.utils.theme import check_theme
 
 
 autoend = {}
@@ -660,4 +660,4 @@ class Call(PyTgCalls):
                 autoend[chat_id] = {}
 
 
-Alexa = Call()
+Txc = Call()
